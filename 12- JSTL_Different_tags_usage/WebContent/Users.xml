@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+	<user>
+			<name>Filipe</name>
+			<gender>Male</gender>
+			<age>25</age>
+	</user>
+		<user>
+			<name>Fernando</name>
+			<gender>Male</gender>
+			<age>33</age>
+	</user>
+		<user>
+			<name>Joaquim</name>
+			<gender>Male</gender>
+			<age>65</age>
+	</user>
+		<user>
+			<name>Constantina</name>
+			<gender>Female</gender>
+			<age>65</age>
+	</user>
+</users>
